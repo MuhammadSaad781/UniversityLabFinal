@@ -1,0 +1,9 @@
+POST http://localhost:6000/api/Registration
+Content-Type: application/json
+
+{
+    "FirstName":"Muhammad", 
+    "LastName": "Saad",
+    "Email": "ch.saad781@gmail.com",
+    "Password":"Saad12"
+}
